@@ -9,4 +9,4 @@ This project comprises multiple encryption-related tasks:
 6.  Initialization Vector (IV): Study the importance of unique and unpredictable IVs.
 7.  Brute-Force Key Discovery: Use a dictionary attack to find a weak key in AES-128-CBC encryption.
 
-This project demonstrates the importance of secure key management and proper encryption practices in cryptography.
+The importance of secure key management and proper encryption practices in cryptography are being demonstrated.
